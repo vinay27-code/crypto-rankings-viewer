@@ -48,7 +48,7 @@ Displays the top 50 cryptocurrencies including:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/crypto-rankings-viewer.git
+git clone https://github.com/vinay27-code/crypto-rankings-viewer.git
 cd crypto-rankings-viewer
 ```
 
